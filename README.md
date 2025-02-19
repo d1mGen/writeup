@@ -11,7 +11,7 @@
 <br>
 
 * **Random CTF Solution** 
-> [<img src="https://img.youtube.com/vi/TftiI2NKwvM/hqdefault.jpg" width="560" height="315"/>](https://www.youtube.com/embed/9u5oHqDAMWM)
+> [<img src="https://img.youtube.com/vi/9u5oHqDAMWM/hqdefault.jpg" width="560" height="315"/>](https://www.youtube.com/embed/9u5oHqDAMWM)
 
 <br>
 
